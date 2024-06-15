@@ -1,4 +1,4 @@
-[![Build and deploy Python app to Azure Web App - thanhluu](https://github.com/cocvu99/azure-devops-project2)](https://github.com/cocvu99/azure-devops-project2/blob/main/pythonapp.yml)
+[![Build and deploy Python app to Azure Web App](https://github.com/cocvu99/azure-devops-project2)](https://github.com/cocvu99/azure-devops-project2/blob/main/pythonapp.yml)
  
  
 # Overview
