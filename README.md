@@ -19,9 +19,8 @@
 ![Architectual](images/continuous-delivery-diagram.png)
 Building step
 * You need to clone your repo to CloudShell, then go to Deployment Center in Azure Webapp link your repo which contains the application
-![Cloned Repo](images/cloned_repo_to_cloud_shell.png)
+![Cloned Repo](images/clon_repo_to_cloud_shell.png)
 * Project running on Azure App Service
-#TO-DO
 ![Webapp](images/webapp.png)
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 ![Passing](images/pass_test_hello.png)
